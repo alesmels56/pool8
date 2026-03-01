@@ -1,0 +1,20 @@
+# Ambiente Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv
+env.bak
+venv.bak
+
+# Log
+*.log
+
+# Database SQLite (se usato in dev)
+*.sqlite3
+
+# OS generate
+.DS_Store
+Thumbs.db
